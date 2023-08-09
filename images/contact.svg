@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 295.88 258.71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="165.92" y1="1121.49" x2="165.87" y2="1120.8" gradientTransform="translate(81173.35 -273348.17) rotate(-172) scale(253.9 -251.62)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#190e58"/>
+      <stop offset=".57" stop-color="#000" stop-opacity=".56"/>
+      <stop offset="1" stop-color="#5d0f52"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="168.51" y1="1126.03" x2="168.46" y2="1125.34" gradientTransform="translate(-19082.74 337256.24) scale(113.86 -299.44)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="114.62" y1="124.2" x2="148.01" y2="152.9" gradientTransform="translate(114.42 -50.72) rotate(38.92)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#857ac8" stop-opacity="0"/>
+      <stop offset=".05" stop-color="#7a70b8" stop-opacity=".96"/>
+      <stop offset=".48" stop-color="#000" stop-opacity=".56"/>
+      <stop offset=".93" stop-color="#aa62a2" stop-opacity=".93"/>
+      <stop offset="1" stop-color="#cc76c2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="162.96" y1="1126.62" x2="162.91" y2="1125.94" gradientTransform="translate(-252508.04 -37217.53) rotate(90) scale(228.85 -224.3)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path id="Polygon_3" data-name="Polygon 3" class="cls-1" d="m194.33,235.54l-57.3-168.59,158.85,22.32-101.55,146.26Z"/>
+    <rect id="Rectangle_45" data-name="Rectangle 45" class="cls-2" x="64.14" y="77.54" width="71.93" height="189.18" transform="translate(-97.16 145.04) rotate(-52)"/>
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" class="cls-3" cx="128.98" cy="136.55" rx="163.55" ry="33.4" transform="translate(-57.15 111.34) rotate(-38.92)"/>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" class="cls-4" cx="118.45" cy="71" rx="70.85" ry="72.29" transform="translate(15.93 163.52) rotate(-73)"/>
+  </g>
+</svg>

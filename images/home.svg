@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 281.36 296.19">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="128.17" cy="1633.39" fx="128.17" fy="1633.39" r=".19" gradientTransform="translate(-36508.89 1061304.39) rotate(-2.51) scale(648.46 -648.06)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#133137" stop-opacity="0"/>
+      <stop offset=".64" stop-color="#1b144a" stop-opacity="0"/>
+      <stop offset="1" stop-color="#192d3e"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="129.87" y1="1628.34" x2="129.84" y2="1627.96" gradientTransform="translate(206496.82 -691600.43) rotate(-167.99) scale(445.94 -441.94)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#186571"/>
+      <stop offset=".57" stop-color="#000" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#3d1037"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="145.1" y1="159.58" x2="80.41" y2="238.36" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#3d1037"/>
+      <stop offset=".28" stop-color="#350d2f" stop-opacity=".96"/>
+      <stop offset=".42" stop-color="#1f081c" stop-opacity=".83"/>
+      <stop offset=".57" stop-color="#000" stop-opacity=".65"/>
+      <stop offset=".61" stop-color="#020a0c" stop-opacity=".69"/>
+      <stop offset=".86" stop-color="#186571"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="127.19" y1="1634.22" x2="126.88" y2="1634.09" gradientTransform="translate(-643776.23 -50991.67) rotate(90) scale(402 -394)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3d1037"/>
+      <stop offset=".12" stop-color="#360e31" stop-opacity=".98"/>
+      <stop offset=".3" stop-color="#240920" stop-opacity=".94"/>
+      <stop offset=".5" stop-color="#060105" stop-opacity=".87"/>
+      <stop offset=".54" stop-color="#000" stop-opacity=".85"/>
+      <stop offset=".55" stop-color="#000303" stop-opacity=".85"/>
+      <stop offset=".76" stop-color="#0d373e" stop-opacity=".93"/>
+      <stop offset=".92" stop-color="#155863" stop-opacity=".98"/>
+      <stop offset="1" stop-color="#186571"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" class="cls-4" cx="118.12" cy="151.97" rx="118.12" ry="118.04"/>
+    <path id="Polygon_1" data-name="Polygon 1" class="cls-1" d="m155.47,245.96l-51.23-174.37,177.13,33.8-125.9,140.58Z"/>
+    <polygon id="Rectangle_36" data-name="Rectangle 36" class="cls-2" points="8.49 169.62 55.07 108.02 211.87 234.59 165.29 296.19 8.49 169.62"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-3" cx="78.94" cy="71.91" rx="71.77" ry="73.22" transform="translate(-12.91 126.38) rotate(-73)"/>
+  </g>
+</svg>

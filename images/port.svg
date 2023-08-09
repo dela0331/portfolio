@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 311.04 282.22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-480.87" y1="1112.23" x2="-480.87" y2="1111.68" gradientTransform="translate(-237439.11 -517756.13) rotate(166) scale(218.9 -503.62)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#550422"/>
+      <stop offset=".57" stop-color="#000" stop-opacity=".56"/>
+      <stop offset="1" stop-color="#162f4b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-478.53" y1="1106.29" x2="-478.52" y2="1106.66" gradientTransform="translate(105222.86 -272035.01) rotate(-90) scale(568.81 -94.96)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#162f4b" stop-opacity="0"/>
+      <stop offset=".05" stop-color="#4a5f96" stop-opacity=".96"/>
+      <stop offset=".07" stop-color="#10578a" stop-opacity=".92"/>
+      <stop offset=".1" stop-color="#0f507f" stop-opacity=".87"/>
+      <stop offset=".18" stop-color="#0c4167" stop-opacity=".8"/>
+      <stop offset=".48" stop-color="#000" stop-opacity=".45"/>
+      <stop offset=".93" stop-color="#901a50" stop-opacity=".93"/>
+      <stop offset="1" stop-color="#370819" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-471.16" y1="1111.85" x2="-471.16" y2="1111.3" gradientTransform="translate(53798.97 333062.74) scale(113.86 -299.44)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="-476.2" y1="1116.65" x2="-476.2" y2="1116.1" gradientTransform="translate(-231206.41 100956.7) rotate(90) scale(211.85 -207.3)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path id="Polygon_3" data-name="Polygon 3" class="cls-1" d="m206.6,282.22L81.66,29.01,198.03,0l8.57,282.22Z"/>
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" class="cls-2" cx="155.52" cy="152.51" rx="26.01" ry="155.81" transform="translate(-6.38 298.23) rotate(-86.43)"/>
+    <rect id="Rectangle_45" data-name="Rectangle 45" class="cls-3" x="124.05" y="130.64" width="62.38" height="164.05" transform="translate(-67.73 352.69) rotate(-86)"/>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" class="cls-4" cx="213.12" cy="73.79" rx="56.78" ry="58.03" transform="translate(113.91 276.34) rotate(-83)"/>
+  </g>
+</svg>

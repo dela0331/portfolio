@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640.96 320.48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #707070;
+        stroke-width: .33px;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="-328.3" cy="207.69" fx="-328.3" fy="207.69" r=".36" gradientTransform="translate(-546480.75 197334.16) rotate(142.8) scale(1325.78 -835.86) skewX(-23.47)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".28" stop-color="#110c33"/>
+      <stop offset=".69" stop-color="#000"/>
+      <stop offset="1" stop-color="#1d011c"/>
+    </radialGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g id="Rectangle_42" data-name="Rectangle 42">
+      <rect class="cls-1" width="640.96" height="320.48"/>
+      <rect class="cls-2" x=".17" y=".17" width="640.62" height="320.14"/>
+    </g>
+  </g>
+</svg>
